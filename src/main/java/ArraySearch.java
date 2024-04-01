@@ -19,11 +19,9 @@ class ArraySearch {
 
     int findMax() {
         int maxValue = 0;
-        int index = 0;
         for (int i = 0; i < arr.length; i++) {
             if (arr[i] > maxValue) {
                 maxValue = arr[i];
-                index = i;
             }
         }
         return maxValue;
@@ -31,11 +29,9 @@ class ArraySearch {
 
     int findMin() {
         int minValue = 0;
-        int index = 0;
         for (int i = 0; i < arr.length; i++) {
             if (arr[i] < minValue) {
                 minValue = arr[i];
-                index = i;
             }
         }
         return minValue;
