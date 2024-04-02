@@ -50,7 +50,7 @@ public class Stepik_5_2 {
         System.out.println(isSorted(a1));
         System.out.println(isSorted(a2));
         System.out.println(isSorted(a3));
-
+        System.out.println("Hello2");
     }
 
     // O(N^2) -> 0.5*N^2=N*2/2
