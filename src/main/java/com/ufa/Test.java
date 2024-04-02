@@ -1,3 +1,5 @@
+package com.ufa;
+
 public class Test {
 
 
