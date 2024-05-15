@@ -23,4 +23,4 @@ public class LeetCodeMaxConsecutiveOnes {
         return max;
     }
 }
-//test
+//test1
